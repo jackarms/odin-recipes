@@ -1,0 +1,21 @@
+.tuna-page {
+    background-color: pink;
+}
+
+.guac-page {
+    background-color: palegreen;
+}
+
+.clam-page {
+    background-color: palegoldenrod;
+}
+
+.dish {
+    height: auto;
+    width: 500px;
+    border: solid 2px black;
+}
+
+h1 {
+    font-size: 60px;
+}
